@@ -8,7 +8,7 @@ A very simple self-hosting app for the weather using OpenWeatherAPI.
 * Clone the repostiory
 * Open the index.html file
 * Insert your API key (you will insert it on every launch)
-* Search for your place
+* Search for your place (Country does not count. For example don't write "Greece" instead write a town/city like "Heraklion" or "Athens")
 * Select the place
 Done!
 
