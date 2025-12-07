@@ -10,8 +10,9 @@ A very simple self-hosting app for the weather using OpenWeatherAPI
 Done!
 
 # Some example
-![Alt text](/Screenshots/Screenshot (8).png?raw=true, "Searching")
-![Alt text](/Screenshots/Screenshot (9).png?raw=true, "Weather Results")
+![Alt text](Screenshots/Screenshot%20(8).png)
+
+![Alt text](Screenshots/Screenshot%20(9).png)
 
 # Creators
 Chris The Parrot: Made some improvements to the app
