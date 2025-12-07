@@ -79,17 +79,73 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
-.res-geo { width: 45%; font-size: 14px; color: #06283D; font-weight: 600; }
-.res-temp { width: 15%; font-weight: 700; color: #06283D; }
-.res-icon img { width: 30px; }
-.res-coords { width: 25%; font-size: 11px; color: #888; text-align: right; }
+.res-geo { 
+    width: 45%; 
+    font-size: 14px; 
+    color: #06283D; 
+    font-weight: 600; 
+}
 
-.weather-box{ text-align: center; }
-.weather-box img{ width: 60%; margin-top: 30px; }
-.weather-box .temperature{ color: #06283D; font-size: 4rem; font-weight: 800; margin-top: 30px; }
-.weather-details{ display: flex; justify-content: space-between; margin-top: 30px; }
-.weather-details i{ color: #06283D; font-size: 26px; }
+.res-temp { 
+    width: 15%; 
+    font-weight: 700; 
+    color: #06283D; 
+}
 
-.not-found{ width: 100%; text-align: center; margin-top: 50px; scale: 0; opacity: 0; display: none; }
-.fadeIn{ animation: 0.5s fadeIn forwards; animation-delay: 0.5s; }
-@keyframes fadeIn{ to { scale: 1; opacity: 1; } }
+.res-icon img { 
+    width: 30px; 
+}
+
+.res-coords { 
+    width: 25%; 
+    font-size: 11px; 
+    color: #888; 
+    text-align: right; 
+}
+
+.weather-box { 
+    text-align: center; 
+}
+
+.weather-box img { 
+    width: 60%; 
+    margin-top: 30px; 
+}
+
+.weather-box .temperature { 
+    color: #06283D; 
+    font-size: 4rem; 
+    font-weight: 800; 
+    margin-top: 30px; 
+}
+
+.weather-details { 
+    display: flex; 
+    justify-content: space-between; 
+    margin-top: 30px; 
+}
+
+.weather-details i { 
+    color: #06283D; 
+    font-size: 26px; 
+}
+
+.not-found { 
+    width: 100%; 
+    text-align: center; 
+    margin-top: 50px; 
+    scale: 0; 
+    opacity: 0; 
+    display: none; 
+}
+
+.fadeIn
+{ 
+    animation: 0.5s;
+    fadeIn forwards; 
+    animation-delay: 0.5s; 
+}
+
+@keyframes fadeIn { 
+to { scale: 1; opacity: 1; } 
+}
