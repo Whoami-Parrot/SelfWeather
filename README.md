@@ -4,6 +4,7 @@ A very simple self-hosting app for the weather using OpenWeatherAPI
 # How to use
 * Get an API key from OpenWeather (https://openweathermap.org/api)
 * Clone the repostiory
+* Open the index.html file
 * Insert your API key (you will insert it on every launch)
 * Search for your place
 * Select the place
