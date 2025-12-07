@@ -1,5 +1,7 @@
 # SelfWeather
-A very simple self-hosting app for the weather using OpenWeatherAPI
+A very simple self-hosting app for the weather using OpenWeatherAPI.
+
+*Note: The app has just started, soon it will be more advanced*
 
 # How to use
 * Get an API key from OpenWeather (https://openweathermap.org/api)
