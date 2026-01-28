@@ -12,7 +12,7 @@ A very simple self-hosting app for the weather using OpenWeatherAPI.
 * Select the place
 Done!
 
-# Some example
+# Some examples
 ![Alt text](Screenshots/Screenshot%20(8).png)
 
 ![Alt text](Screenshots/Screenshot%20(9).png)
